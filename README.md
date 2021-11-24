@@ -1,0 +1,4 @@
+My name is Chauncey Tanner Murphey. I am currently pursuing an M.A. in Physics as Stony Brook University. I have been coding in Python significantly since 2018 and have more recently started coding in C, C++, Julia. Most of my work and coding interest centers around astrophysics, particularaly supernovae.
+I got my undergraduate degree in Astronomy from the University of Illinois in 2020, where I did research on modeling probability distributions of supernovae in the Milky Way Galaxy **(code to be posted shortly)**. I also obtained a minor in Physics and another in Computer Engineering. Part of that degree involved collaborating to produce a digital guitar effects board written in SystemVerilog to work on an Altera DE-2 Development Baord **(link to repo here)**. 
+
+If you have any questions, feel free to contact me at ctmurphey@protonmail.com. If you have Data Science/Analysis-related internships, please do so there as well.
